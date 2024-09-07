@@ -15,11 +15,14 @@ Komposer : Suryo DwiJayanto
 [<img alt="YouTube | Dark Clue Music" title="YouTube | Dark Clue Music" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" />](https://www.youtube.com/@darkcluemusic) [<img alt="Instagram | Dark Clue Music" title="Instagram | Dark Clue Music" width="64px" src="https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584852.png" />](https://www.instagram.com/darkcluemusic/) [<img alt="Reverbnation | Dark Clue Music" title="Reverbnation | Dark Clue Music" width="64px" src="https://www.shareicon.net/data/2015/08/26/91373_media_512x512.png" />](https://www.reverbnation.com/darkclue) [<img alt="SoundCloud | Dark Clue Music" title="SoundCloud | Dark Clue Music" width="64px" src="https://img.freepik.com/premium-vector/soundcloud-logo_578229-231.jpg" />](https://soundcloud.com/darkclue)
 
 ## Musik Lirik
-> [dark-clue.web.app](https://dark-clue.web.app)
+- [dark-clue.web.app](https://dark-clue.web.app)
+
+## Hastag
+> [#darkclue](https://darkcluemusic.github.io/) [#darkcluemusic](https://darkcluemusic.github.io/) [#darkcluelirik](https://darkcluemusic.github.io/) [#darkcluelyric](https://darkcluemusic.github.io/) [#dark-clue](https://darkcluemusic.github.io/) [#dark-clue-music](https://darkcluemusic.github.io/) [#lagudarkclue](https://darkcluemusic.github.io/) [#lagudarkcluemusic](https://darkcluemusic.github.io/)
 
 ## Kontributor
-- [CusMeDroid](https://github.com/CusMeDroid)
-- [ID Devlop](https://github.com/iddevlop)
-- [Klati Smart](https://github.com/klatismart)
-- [Overtunes Music](https://github.com/overtunesmusic)
-- [Xiefujev](https://github.com/xiefujev)
+1. [CusMeDroid](https://github.com/CusMeDroid)
+2. [ID Devlop](https://github.com/iddevlop)
+3. [Klati Smart](https://github.com/klatismart)
+4. [Overtunes Music](https://github.com/overtunesmusic)
+5. [Xiefujev](https://github.com/xiefujev)
