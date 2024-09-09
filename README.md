@@ -17,6 +17,25 @@ Komposer : Suryo DwiJayanto
 ## Musik Lirik
 - [dark-clue.web.app](https://dark-clue.web.app)
 
+## Konsep
+``` txt
+  Server [HOST]
+  |
+   --- Firebase
+  |   |
+  |    --- Database Realtime
+  |   |
+  |    --- Database Storage
+  |
+   --- Interface
+  |   |
+  |    --- UI/UX (Web Dev)
+  |   |
+  |    --- Making logic/app support for lyrics
+  |
+   --- List data > show lirics > download lyrics/music
+```
+
 ## Hastag
 > [#darkclue](https://darkcluemusic.github.io/) [#darkcluemusic](https://darkcluemusic.github.io/) [#darkcluelirik](https://darkcluemusic.github.io/) [#darkcluelyric](https://darkcluemusic.github.io/) [#dark-clue](https://darkcluemusic.github.io/) [#dark-clue-music](https://darkcluemusic.github.io/) [#lagudarkclue](https://darkcluemusic.github.io/) [#lagudarkcluemusic](https://darkcluemusic.github.io/)
 
